@@ -17,3 +17,22 @@ C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do List\To-Do 
 C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.pdb
 C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.genruntimeconfig.cache
 C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do List\To-Do List\obj\Debug\net7.0-windows\ref\To-Do List.dll
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List_MarkupCompile.cache
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.g.resources
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.AssemblyInfoInputs.cache
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.AssemblyInfo.cs
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.dll
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\refint\To-Do List.dll
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.pdb
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\bin\Debug\net7.0-windows\To-Do List.exe
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\bin\Debug\net7.0-windows\To-Do List.deps.json
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\bin\Debug\net7.0-windows\To-Do List.runtimeconfig.json
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\bin\Debug\net7.0-windows\To-Do List.dll
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\bin\Debug\net7.0-windows\To-Do List.pdb
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\To-Do List.genruntimeconfig.cache
+C:\Users\chebu\OneDrive\Рабочий стол\проекты\To-Do-Lost-Task\To-Do List\To-Do List\obj\Debug\net7.0-windows\ref\To-Do List.dll

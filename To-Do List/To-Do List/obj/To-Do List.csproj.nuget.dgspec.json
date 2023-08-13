@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do List\\To-Do List\\To-Do List.csproj": {}
+    "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do-Lost-Task\\To-Do List\\To-Do List\\To-Do List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do List\\To-Do List\\To-Do List.csproj": {
+    "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do-Lost-Task\\To-Do List\\To-Do List\\To-Do List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do List\\To-Do List\\To-Do List.csproj",
+        "projectUniqueName": "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do-Lost-Task\\To-Do List\\To-Do List\\To-Do List.csproj",
         "projectName": "To-Do List",
-        "projectPath": "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do List\\To-Do List\\To-Do List.csproj",
+        "projectPath": "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do-Lost-Task\\To-Do List\\To-Do List\\To-Do List.csproj",
         "packagesPath": "C:\\Users\\chebu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do List\\To-Do List\\obj\\",
+        "outputPath": "C:\\Users\\chebu\\OneDrive\\Рабочий стол\\проекты\\To-Do-Lost-Task\\To-Do List\\To-Do List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chebu\\AppData\\Roaming\\NuGet\\NuGet.Config",

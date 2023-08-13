@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.ObjectModel;
 using System.IO;
 using System.Text;
@@ -16,7 +17,6 @@ namespace To_Do_List
         {
             InitializeComponent();
             taskListView.ItemsSource = tasks;
-            LoadTasksFromFile("tasks.txt");
         }
 
         private void AddButton_Click(object sender, RoutedEventArgs e)
@@ -35,14 +35,34 @@ namespace To_Do_List
 
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
-            SaveTasksToFile("tasks.txt");
-            MessageBox.Show("Задачи сохранены.", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
+            var saveFileDialog = new SaveFileDialog
+            {
+                Title = "Сохранить задачи",
+                DefaultExt = ".txt",
+                Filter = "Текстовые файлы (*.txt)|*.txt"
+            };
+
+            if (saveFileDialog.ShowDialog() == true)
+            {
+                SaveTasksToFile(saveFileDialog.FileName);
+                MessageBox.Show("Задачи сохранены.", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
         }
 
         private void LoadButton_Click(object sender, RoutedEventArgs e)
         {
-            LoadTasksFromFile("tasks.txt");
-            MessageBox.Show("Задачи загружены.", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
+            var openFileDialog = new OpenFileDialog
+            {
+                Title = "Выбрать файл с задачами",
+                DefaultExt = ".txt",
+                Filter = "Текстовые файлы (*.txt)|*.txt"
+            };
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                LoadTasksFromFile(openFileDialog.FileName);
+                MessageBox.Show("Задачи загружены.", "Успешно", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
         }
 
         private void CheckBox_Click(object sender, RoutedEventArgs e)
